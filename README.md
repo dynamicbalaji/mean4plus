@@ -31,3 +31,6 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 Installing Express JS
 Command:- npm install express body-parser --save
 body-parser is a middleware for parsing incoming request bodies
+
+Installing MongoDB
+npm install mongodb --save
